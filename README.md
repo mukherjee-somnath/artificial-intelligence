@@ -7,6 +7,15 @@ Assistant Professor, MCA
 RERF  
 September 2026
 
+> ## 📘 Main Notes
+>
+> **The complete Artificial Intelligence notes are available here:**
+>
+> 👉 **[Open the Main AI Notes — `notes/main.pdf`](notes/main.pdf)**
+>
+> This PDF contains the complete chapter-wise notes, explanations, examples,
+> algorithms, summaries, key points, and examination questions.
+
 ---
 
 ## About
